@@ -51,7 +51,7 @@ A fully functional **two-site enterprise network** simulated in Cisco Packet Tra
 
 ## 🗺 Topology
 
-![Network Topology](topology.jpeg)
+![Network Topology](a32ec56a-00ed-43c6-a750-411188e233c7.jpeg)
 
 ```
           ┌─────────────┐
@@ -376,7 +376,7 @@ Hits: 54   Misses: 73
 ├── 📄 README.md                        ← You are here
 ├── 📄 Final_Network_Report_engYSF.pdf  ← Full LaTeX report
 ├── 📄 network_report.tex               ← LaTeX source
-├── 🖼  topology.jpeg                   ← Packet Tracer topology screenshot
+├── 🖼  a32ec56a-00ed-43c6-a750-411188e233c7.jpeg                   ← Packet Tracer topology screenshot
 └── 📦 network_project.pkt              ← Cisco Packet Tracer file
 ```
 
